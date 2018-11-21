@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebBase.Api", "WebBase.Api\WebBase.Api.csproj", "{9AB56370-A806-4EDC-A39D-63BED5770DCB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Api", "1.Api", "{70EDCB47-5353-4ECA-914B-173B2AF16872}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Services", "2.Services", "{E3B2D9A1-70AF-4A53-9C60-50C8FC809F65}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Repositories", "3.Repositories", "{88F13F35-596C-4A36-A77C-5DBDD3C16BB6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.Data", "4.Data", "{07A1731D-C78E-471F-B4D5-6747A595CE47}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{CA72C214-69C0-4806-9A86-3420EFECE883}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AB56370-A806-4EDC-A39D-63BED5770DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AB56370-A806-4EDC-A39D-63BED5770DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AB56370-A806-4EDC-A39D-63BED5770DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AB56370-A806-4EDC-A39D-63BED5770DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9AB56370-A806-4EDC-A39D-63BED5770DCB} = {70EDCB47-5353-4ECA-914B-173B2AF16872}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8BACECD-00B7-4F7E-BB19-8C51BFB7E957}
+	EndGlobalSection
+EndGlobal
